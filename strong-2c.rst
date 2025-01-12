@@ -3,6 +3,8 @@ Strong 2C
 
 23+p or 9 tricks.
 
+.. ag: says 22+p
+
 Responses
 ---------
 

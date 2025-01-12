@@ -1,9 +1,7 @@
 Responding to 1M
 ================
 
-Support pts, only after a fit, clear length points — V/S/D: 3t: 3p/2p/1p, 4+t: 5p/3p/1p
 
-- Don't count "non-working honors" (ie, singleton Q gets support but not value)
 
 Min responses (6-9/10p)
 -----------------------
@@ -24,6 +22,8 @@ Invitational (10/11-12p)
 ------------------------
 
 - Raise partner major to 3-level if 3+t: 1H-3H
+
+.. bridge baron: this is "limit major raise"
 
 - New suit of 4+c (w/4-4: cheapest avail; w/5-5 down-the-line)
 

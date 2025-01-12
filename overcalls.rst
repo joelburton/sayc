@@ -1,13 +1,24 @@
 Overcalls
 =========
 
+.. link to takeout double (remember, that makes you dummy, so eval as such)
+
+
+.. vuln should definition be here wrt "exceptional quality" and count judgement w/dummy points
+
+.. with two 5c suits, open higher, like opening
+`
+.. ag: ~7-17 (less hcp should mean better suit)
+
 - 1-level: 8-16+hcp & decent 5+c (ok: 4c of exceptional quality)
 
-- 2-level: 10-16+hcp & decent 5+c
+- 2-level: 10-16+hcp & better-than-just-decent 5+c (looser req w/6c)
 
-- Direct 1NT overall 15-18hcp & stopper
+- Direct 1NT overall: balanced, 15-18hcp & (usually?) stopper
 
   - SAYC says Stayman is on, but not transfers (many play all systems on)
+
+- Jump overcalls are preemptive, and like weak openings
 
 Responding to overcall: 1C-(1H)-p
 

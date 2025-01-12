@@ -6,6 +6,7 @@ SAYC Bidding System
    :maxdepth: 2
    :numbered:
 
+   eval
    open-nt
    open-suit
    resp-1-major
@@ -20,5 +21,4 @@ SAYC Bidding System
    balancing
    slam
    leads
-   misc
 

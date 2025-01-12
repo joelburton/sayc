@@ -6,7 +6,19 @@ Opening Notrump
 1NT 15-17
 ---------
 
-Responding: responder adds length +1p for each card after 4th
+.. or 14+-17 ?
+
+**Modern style**: Not always exactly hcp; can use judgement from :ref:`dist-points`.
+
+.. ag : only add length points if there is an honor in that suit
+.. ag: open 1nt on `A7 KT8 AJ9 QT962` (14 +1p for 5c D w/honor)
+.. ag: but not on `KQ^ KJ T8532 AT3` (14 +1p but C are weak)
+.. consider intermediate cards
+.. borderline: `A4 AT9 AT872 KJ9` or `AT2 K93 QT842 KQ`
+
+
+
+
 
 .. hlist::
   :columns: 3
@@ -27,6 +39,8 @@ Stayman ``1NT-2C``
 
 Jacoby transfers ``1NT-2D/H/S``
 +++++++++++++++++++++++++++++++
+
+.. note:: without transfers, 2H/2S would be signoff for weak
 
 .. sidebar:: Example ``1NT-2D``
 

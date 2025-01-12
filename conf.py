@@ -59,9 +59,9 @@ rst_prolog = r"""
   <style>
     .page-content ul > li > p { margin-top: 0; margin-bottom: 0 } 
     .h { color: red } 
-    .d { color: green } 
-    .c { color: blue } 
-    .s { color: #333 }
+    .d { color: #ffbf00 } 
+    .c { color: green } 
+    .s { color: blue }
 
     .body ul { margin-top: 0; margin-bottom: 0; }
     table.docutils.table-unstriped td, table.docutils.table-unstriped th { padding: 0.1em 0.4em; border: none; }
