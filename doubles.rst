@@ -91,7 +91,7 @@ Opponents Make Takeout
   :hand:`xx xx KQTxxx Jxx` — AG suggests `2D`, but my notes say this should be preemptive weak jump shift, `3D`
 
   :hand:`Axx Kxx KJxxx xx` — AG suggests `XX` since we don't have 4+t and shouldn't use `2NT`; we can support later
-`
+
   :hand:`Kxx AQxx xx KQxx` — AG suggests `2NT`, but this isn't a *limit* raise
 
 Lead-Directing Doubles
@@ -142,4 +142,4 @@ Reopening Doubles
 Responsive double
 =================
 
-XXX :hand:`(1H)-X-(2H)-X`
+XXX `(1H)-X-(2H)-X`

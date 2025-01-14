@@ -67,17 +67,17 @@ Game force
 
 Example: `1HS-2NT*`. Openers rebids are:
 
-- Balanced minimum (<=14hcp), no singleton, void, or 2nd 5c+ suit: `!game*`
+- Balanced minimum (<=14hcp), no singleton, void, or 2nd 5c+ suit: `"game"*`
 
 - 15-17hcp w/no singleton/void/2nd 5c suit: `3NT*`, slam interest
 
   - Opener prob is :shape:`5-4-2-2`, or they would have opened `1NT`
 
-- 18+hcp: `!rebid major at 3 level*`, definite slam interest
+- 18+hcp: `"rebid major at 3 level"*`, definite slam interest
 
-- Singleton or void: `!3-level in side suit*`
+- Singleton or void: `"3-level in side suit"*`
 
-- 2nd 5c suit: `!4-level in suit*`
+- 2nd 5c suit: `"4-level in suit"*`
 
   - With 2nd 5c suit, has void/singleton; pick better feature
 

@@ -2,12 +2,14 @@
 Opener Rebid
 ============
 
+.. ag is stricter about points: min: 13-16, invit: 17-18
+
+
 Minimum (13-15/16p)
 ===================
 
-.. note:: ag: 13-16, invit: 17-18
+- After limit raise, try to go to game (`1S-3S`, if balanced :shape:`5-4-4-3` and <15p, `p`; else, `4S`)
 
-- After limit raise, try to go to game (`1S-3S`, if balanced 5443 and <15p, pass; else, game)
 - `1NT` rebid promises balanced min, but doesn't guarantee stoppers
 
 
@@ -15,9 +17,13 @@ Invitational (16/17-18p)
 ========================
 
 - `1M-2M-2NT`: asks partner to choose 3M/4M if at low/high end of limit
+
 - `1M-2M-?s`: long suit game try: 4M if max (9/10p) or Q/K/A/void/double in this; else, 3M
+
 - `1M-2M-3M`: w/6+ in suit
-- w/17+hcp: can reverse
+
+- Can `"reverse"` w/17+hcp
+
 
 some play 1M-2M-3M as preemptive?
 

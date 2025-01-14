@@ -45,7 +45,7 @@ html_theme_options = {
     "use_download_button": False,
 }
 
-extensions += ["bid"]
+extensions += ["bridge"]
 default_role = "auction"
 
 rst_prolog = r"""
@@ -67,6 +67,7 @@ rst_prolog = r"""
 
   <style>
     .page-content ul > li > p { margin-top: 0; margin-bottom: 0 } 
+    
     .h { color: #c00 } 
     .d { color: #eeaf00 } 
     .c { color: #060 } 
@@ -80,19 +81,18 @@ rst_prolog = r"""
     .section-number::before { content: "§" }
     .prev-next-area .section-number { display: none }
     
-    .bid-sep { color: #666 }
-    .bid-alert { border-bottom: solid 1px red }
-    .bid-announce { border-bottom: solid 1px blue }
-    .bid-opp::before {
-        content: "(";
-    }
-    .bid-opp::after {
-        content: ")";
-    } 
-    .bid-x, .bid-xx {
-       font-size: 85%; font-weight: bold;
-    }   
     .auction { font-family: monospace; background-color: #eee; padding: 0 0.3em }
+    .auction-bg { }
+    .auction-bg-sep { color: #666 }
+    .auction-bg-opp::before { content: "("; }
+    .auction-bg-opp::after { content: ")"; } 
+    
+    .auction-bid { }
+    .auction-bid-alert { border-bottom: solid 1px red }
+    .auction-bid-announce { border-bottom: solid 1px blue }
+    .auction-bid-x, .auction-bid-xx { font-size: 85%; font-weight: bold; }
+    .auction-bid-sep { } 
+       
     .hand, .suit { font-family: monospace; background-color: #fee; padding: 0 0.3em }
     .hand-hearts, .hand-diamonds, .hand-clubs { margin-left: 0.4em; }
     .card-lead { text-decoration: underline; font-weight: bold; }
