@@ -1,8 +1,9 @@
+=================
 Leads and Carding
 =================
 
 Lead v Notrump
---------------
+==============
 
 - Lead partners suit
 
@@ -10,21 +11,21 @@ Lead v Notrump
 
   - xxx: author says low, SAYC says top-of-nothing
 
-  - Touching honors: lead top: (J)T7 _are_
+  - Touching honors: lead top: :suit:`(J)T7` _are_
 
   -  Hxx: low or 4th best
 
 - Own suit
 
-  - KQJx (3 touching) top of seq (but not A from AKQ; see below)
+  - :suit:`(K)QJx` (3 touching) top of seq (but not A from AKQ; see below)
 
-  - KQTxx (broken w/top two touching) still top of seq
+  - :suit:`(K)QTxx` (broken w/top two touching) still top of seq
 
-  - AJTx (broken interior) top of interior seq
+  - :suit:`A(J)Tx` (broken interior) top of interior seq
 
-  - Hxxx: 4th best
+  - :suit:`Hxx(x)`: 4th best
 
-  - Akxxx: STILL 4th best
+  - :suit:`AKx(x)x`: STILL 4th best
 
   - Passive nothing lead: top-of-nothing (4th best only from 5)
 
@@ -35,27 +36,27 @@ Lead v Notrump
 
 
 Lead v Suit
------------
+===========
 
 - Lead partner's suit: similar to NT
 
-  - ??: highest
+  - :suit:`(?)?`: highest
 
-  - Hxx: low or 4th best
+  - :suit:`(H)xx`: low or 4th best
 
-  - JTx touching: top (J)
+  - :suit:`(J)Tx` touching: top (J)
 
-  - xxx or more: low or 4th best
+  - :suit:`xx(x)` or :suit:`xxx(x)+`: low or 4th best
 
   - If you supported suit: lead high from 3, so partner knows you don't have doubleton
 
 - Own suit
 
-  - KQJ7: top of seq
+  - :suit:`(K)QJ7`: top of seq
 
-  - KQxx:  top of seq
+  - :suit:`(K)Qxx`:  top of seq
 
-  - KJTx: top of inner seq (J) - but avoid leading from tenace
+  - :suit:`K(J)Tx`: top of inner seq (J) - but avoid leading from tenace
 
 - Ace
 
@@ -91,7 +92,7 @@ Lead v Suit
 
 
 Signals
--------
+=======
 
 - Attitude before Count before Suit Pref (only if known or irrelevant proceed to next)
 

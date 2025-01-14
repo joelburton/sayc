@@ -1,3 +1,10 @@
+import sys
+from pathlib import Path
+
+from sphinx.util.rst import default_role
+
+sys.path.append(str(Path('ext').resolve()))
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -38,6 +45,8 @@ html_theme_options = {
     "use_download_button": False,
 }
 
+extensions += ["bid"]
+default_role = "auction"
 
 rst_prolog = r"""
 .. role:: raw-html(raw)
@@ -58,17 +67,39 @@ rst_prolog = r"""
 
   <style>
     .page-content ul > li > p { margin-top: 0; margin-bottom: 0 } 
-    .h { color: red } 
-    .d { color: #ffbf00 } 
-    .c { color: green } 
-    .s { color: blue }
+    .h { color: #c00 } 
+    .d { color: #eeaf00 } 
+    .c { color: #060 } 
+    .s { color: #00c }
+    .nt { font-size: 85%; }
+    .unk { color: purple; font-weight: bold; font-style: italic }
 
     .body ul { margin-top: 0; margin-bottom: 0; }
-    table.docutils.table-unstriped td, table.docutils.table-unstriped th { padding: 0.1em 0.4em; border: none; }
     div.bottom-of-page { display: none }
     .section-number { color: #68a; font-size: 75%; margin-right: 0.4em; }
     .section-number::before { content: "§" }
     .prev-next-area .section-number { display: none }
+    
+    .bid-sep { color: #666 }
+    .bid-alert { border-bottom: solid 1px red }
+    .bid-announce { border-bottom: solid 1px blue }
+    .bid-opp::before {
+        content: "(";
+    }
+    .bid-opp::after {
+        content: ")";
+    } 
+    .bid-x, .bid-xx {
+       font-size: 85%; font-weight: bold;
+    }   
+    .auction { font-family: monospace; background-color: #eee; padding: 0 0.3em }
+    .hand, .suit { font-family: monospace; background-color: #fee; padding: 0 0.3em }
+    .hand-hearts, .hand-diamonds, .hand-clubs { margin-left: 0.4em; }
+    .card-lead { text-decoration: underline; font-weight: bold; }
+    .shape { font-family: monospace }
+    .shape-suit { font-weight: bold; }
+    .shape-sep { font-color: #555; font-size: 85%; }
+    div.compound p:first-of-type { margin-bottom: 0; }
   </style>
 """
 

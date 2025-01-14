@@ -1,3 +1,4 @@
+===================
 Doubles / Redoubles
 ===================
 
@@ -11,9 +12,10 @@ Doubles / Redoubles
    - `Lead-Directing Doubles`_: lead this suit
    - `Balancing Doubles`_: made in passout seat, keep alive & protect partner
    - `Reopening Doubles`_: made in passout seat, like a takeout by opener
+   - `Responsive double`_: after TO by partner: "partner, pick suit"
 
 Penalty Doubles
----------------
+===============
 
 - Doubles of game = penalty (may have lead-directing msg, too)
 
@@ -24,7 +26,7 @@ Penalty Doubles
   - RHO bid: double for penalty, cuebid for takeout, bid, or pass
 
 Takeout Doubles
----------------
+===============
 
 - Double of natural bid below 3S when opponents have bid suit(s)
 
@@ -40,7 +42,7 @@ Takeout Doubles
 - 
   10-12hcp & 4/5c suit: jump bid suit
 - 
-  6-10hcp & stopper in those suit(s): ``1NT``, 11-12hcp & 2 stoppers: ``2NT``, 13-16hcp: ``3NT``
+  6-10hcp & stopper in those suit(s): `1NT`, 11-12hcp & 2 stoppers: `2NT`, 13-16hcp: `3NT`
 - 
   Cuebid opponent suit: "we have game in whatever; you pick"
 
@@ -52,19 +54,21 @@ Takeout Doubles
 
 - New suit: 17-20p (needs 5+c), strong & 6+c good suit: jump new suit
 
-- NTs: 18-19p ``1NT``, 19-21p ``2NT`` (if non-jump, needs 21-22 if jump), 9 tricks for ``3NT``
+- NTs: 18-19p `1NT`, 19-21p `2NT` (if non-jump, needs 21-22 if jump), 9 tricks for `3NT`
 
 - Cuebid: 21+p and slam
 
 .. rubric:: Response after intervention:
 
-- Don't have to respond (but remember TO shows opening values, so often you should)
+- Don't have to respond (but remember TO shows opening values, so often you should) -- 6-8p should be enough
 
-- Cuebid if strong 12+hcp in both unbid, "partner, pick"
+- Cuebid if strong 12+hcp in both unbid, "partner, pick" ("responsive double")
 
 
 Opponents Make Takeout
-++++++++++++++++++++++
+----------------------
+
+- `1NT` 6-9p, no fit
 
 - Redouble = 10+hcp & tend to deny fit in opener suit
 
@@ -74,7 +78,7 @@ Opponents Make Takeout
 
 - Jump raise to game = 5c + weak (same as usual)
 
-- ``2NT*`` = limit raise (`Jordan`/`Truscott`) (w/minor: 5c support)
+- `2NT*` = limit raise (**Jordan**/**Truscott**) (w/minor: 5c support)
 
 - New suit at 1-level: F
 
@@ -82,13 +86,21 @@ Opponents Make Takeout
 
 - Jump shift: preemptive
 
-Lead-Directing Doubles
-----------------------
+.. note:: XXX
 
-Of artificial bid; be careful doing at low levels (like ``1NT-2C*``) unless you have some strength.
+  :hand:`xx xx KQTxxx Jxx` — AG suggests `2D`, but my notes say this should be preemptive weak jump shift, `3D`
+
+  :hand:`Axx Kxx KJxxx xx` — AG suggests `XX` since we don't have 4+t and shouldn't use `2NT`; we can support later
+`
+  :hand:`Kxx AQxx xx KQxx` — AG suggests `2NT`, but this isn't a *limit* raise
+
+Lead-Directing Doubles
+======================
+
+Of artificial bid; be careful doing at low levels (like `1NT-2C*`) unless you have some strength.
 
 Redouble & SOS Redouble
------------------------
+=======================
 
 - If at 4-level or higher: to play
 - Of double of artificial bid: to play
@@ -96,13 +108,13 @@ Redouble & SOS Redouble
 - SOS when doubled for penalty at 3-level or lower
 
 Negative Doubles
-----------------
+================
 
-- Partner opens, RHO overcalls (Takeout by responder): ``1C-(1D)-X``.
+- Partner opens, RHO overcalls (Takeout by responder): `1C-(1D)-X`.
 - 1-level: 6+hcp, 2-level: 8+hcp, 3-level: 10+hcp. Don’t have to be short in opponent suit.
-- ``1C-(1S)-X``: 4+ hearts, not necessarily diamonds
-- ``1C-(1D)-X`` = 4+ in both majors; if only one, would do ``1C-(1D)-1H/S``
-- Played through 2S per SAYC, but this book author uses 3S
+- `1C-(1S)-X`: 4+ hearts, not necessarily diamonds
+- `1C-(1D)-X` = 4+ in both majors; if only one, would do `1C-(1D)-1HS`
+- Played through 2S per SAYC, but this book author (& AG) uses 3S, some even higher
 
 .. rubric:: Responding to Neg Double
 
@@ -112,15 +124,22 @@ Negative Doubles
 - Pass (rare) penalty
 
 Balancing Doubles
------------------
+=================
 
 See :doc:`balancing`.
 
+
 Reopening Doubles
------------------
+=================
 
 - Opener overcalled, partner couldn't double (would be a negative double)
 
-- Like a TO double by opener: ``1D-(2C)-p-(p)-X``
+- Like a TO double by opener: `1D-(2C)-p-(p)-X`
 
 - Often good choice if you have singleton/doubleton in overcalled suit
+
+
+Responsive double
+=================
+
+XXX :hand:`(1H)-X-(2H)-X`

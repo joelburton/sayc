@@ -2,6 +2,9 @@
 SAYC Bidding System
 ===================
 
+As used by Joel; this draws from :title:`Standard Bidding with SAYC`, :title:`Bidding at Bridge` *(Seagram)*,
+and Audrey Grant.
+
 .. toctree::
    :maxdepth: 2
    :numbered:

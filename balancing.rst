@@ -1,3 +1,4 @@
+=========
 Balancing
 =========
 
@@ -8,13 +9,13 @@ Balancing
 Choices
 
 - Double: takeout or to show strength
-- NT: 1NT 12-14hcp, 2NT 19-21hcp (not Unusual), Double followed by min NT: 15-18hcp
+- NT: `1NT` 12-14hcp, `2NT` 19-21hcp (not Unusual), Double followed by min NT: 15-18hcp
 - Jump in suit: opening count (NOT weak, like in direct seat)
 - Cuebid: Michaels
 
 Responding to Balancing overcall (adjust by +3p, since balance can be light)
 
-- NT: 1NT: 9-12p, 2NT: 12-14p, 3NT: 15+p
+- NT: `1NT`: 9-12p, `2NT`: 12-14p, `3NT`: 15+p
 - Have decent control of opponent suit & tolerance for partner suit
 
 Responding to Balancing NT (adjust by +3p): systems on
